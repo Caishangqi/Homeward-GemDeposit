@@ -1,0 +1,13 @@
+name: GemDeposit
+version: '${project.version}'
+main: com.homeward
+api-version: 1.18
+prefix: GemDeposit
+softdepend: [ Vault ]
+authors: [ Caizii ]
+description: 让你把你的宝石储存到更安全的地方
+
+commands:
+  gemdeposit:
+    description: 打开宝石储存GUI
+    usage: /<command>
