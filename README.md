@@ -16,3 +16,5 @@
 ### 模块：协调储存 Harmony Gem Deposit
 
 ![插件演示](https://user-images.githubusercontent.com/39553613/151638266-056d83fd-d556-4f52-a4fc-075b0fff282a.gif)
+![info](https://user-images.githubusercontent.com/39553613/151641637-352eedd9-0f03-4e63-a86f-5dbc2bed2916.png)
+
