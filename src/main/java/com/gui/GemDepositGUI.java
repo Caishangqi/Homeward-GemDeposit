@@ -31,6 +31,7 @@ public class GemDepositGUI extends GUI {
         return menuName + "\uF80B\uF80A\uF809\uF808" + " " + CharFormatter.valueFormat((int) value.getBalance(playerMenuUtility.getOwner()));
     }
 
+
     @Override
     public void setMenuName(String menuName) {
         this.menuName = menuName;
@@ -49,7 +50,7 @@ public class GemDepositGUI extends GUI {
 
             System.out.println("(!) view " + e.getView().getCursor().getType());
             System.out.println("(!) inve " + e.getCursor().getType());
-            if (e.getCursor().getType() == Material.DIAMOND) {
+            if (e.getCursor().getType() == Material.EMERALD) {
                 int amount = e.getCursor().getAmount();
                 System.out.println("合法物品 " + amount);
                 value.depositPlayer(playerMenuUtility.getOwner(), amount);
