@@ -32,12 +32,13 @@
 - 完善配置文件，可以配置多个物品的储存和价值
 - 自定义图标char，可以拓展更多显示可能
 
-#### 特别说明 Special Information
+### 特别说明 Special Information
 
-    这是一个专门给服务器使用的插件，主要需求会依照服务器需求进行配置，您的需求可能会被延后，感谢谅解。
+这是一个专门给服务器使用的插件，主要需求会依照服务器需求进行配置，您的需求可能会被延后，感谢谅解。
 
-    This is a plug-in specially used for the server. The main requirements will be configured according to the server requirements. Your requirements may be delayed. Thank you for your understanding.
+_This is a plug-in specially used for the server. The main requirements will be configured according to the server requirements. Your requirements may be delayed. Thank you for your understanding._
 #### 
-    你必须知道char的远离才可以正常使用或者融合该插件需要的材质到你的材质中，否则你将遇到许多配置和显示问题。
+<br>
+你必须知道char的远离才可以正常使用或者融合该插件需要的材质到你的材质中，否则你将遇到许多配置和显示问题。
 
-    You have to know the basic knowledge of the char to be able to use it properly or to integrate the resourcepack required by the plugin into your resourcepack, otherwise you will encounter many configuration and display problems.
+You have to know the basic knowledge of the char to be able to use it properly or to integrate the resourcepack required by the plugin into your resourcepack, otherwise you will encounter many configuration and display problems.
